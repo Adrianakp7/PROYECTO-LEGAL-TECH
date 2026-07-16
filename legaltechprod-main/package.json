@@ -1,0 +1,9 @@
+{
+  "name": "legaltech",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix server",
+    "start": "npm start --prefix server"
+  }
+}
